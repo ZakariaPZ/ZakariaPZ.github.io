@@ -1,0 +1,57 @@
+#engphys {
+    font-family: 'Odibee Sans', cursive;
+    color: white;
+}
+
+h1 {
+    font-family: 'Squada One', cursive;
+    color: white;
+    letter-spacing: 10px;
+}
+
+/* body {
+    background-image: url(https://wallpaperaccess.com/full/46491.png);
+    background-repeat: no-repeat;
+    background-size: 2880px 1800px;
+    background-attachment: scroll;
+} */
+
+body {
+    background-color: #1D1C1C;
+}
+
+
+.cardInfo {
+    height: 380px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+}
+
+.navbar-brand {
+    font-family: 'Bebas Neue', cursive;
+}
+
+#LOGO {
+    margin: 20px;
+}
+
+.custNav {
+    background-color:black;
+}
+
+h2 {
+    font-family: 'Squada One', cursive;
+
+}
+
+.navbar.scrolled {
+    background: rgba(0, 0, 0, 0.5);
+    transition: background 800ms;
+}
+
+
+
