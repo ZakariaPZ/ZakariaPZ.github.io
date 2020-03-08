@@ -53,5 +53,8 @@ h2 {
     transition: background 800ms;
 }
 
+.mainButtons {
+    border: 2px solid rgb(0, 0, 0);
+}
 
 
